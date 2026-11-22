@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP12</string>
+    <string name="header_title">Sensor Inspector</string>
+    <string name="header_subtitle">TP12 — Device Sensors &amp; Real-time Monitor</string>
+
+    <string name="ambient_temp_title">Ambient Temperature</string>
+    <string name="ambient_temp_unavailable">Ambient temperature sensor is unavailable on this device</string>
+    <string name="ambient_temp_waiting">Waiting for temperature readings…</string>
+    <string name="ambient_temp_value">%1$.1f °C</string>
+
+    <string name="selected_sensor_title">Real-Time Sensor Monitor</string>
+    <string name="selected_sensor_hint">Tap any sensor below to inspect live readings</string>
+    <string name="sensor_status_active">Active</string>
+    <string name="sensor_status_unavailable">Unavailable</string>
+
+    <string name="available_sensors_header">Available Device Sensors (%1$d)</string>
+    <string name="sensor_vendor_format">Vendor: %1$s</string>
+    <string name="sensor_power_format">Power: %1$.2f mA</string>
+    <string name="sensor_type_format">Type: %1$s</string>
+    <string name="no_sensors_found">No sensors detected on this device.</string>
+    <string name="sensor_manager_unavailable">SensorManager is unavailable on this device.</string>
+</resources>
